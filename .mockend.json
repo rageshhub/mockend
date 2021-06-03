@@ -1,5 +1,6 @@
 {
   "Display": {
+   "BookId": "int"
   "BookName": "string",
   "BookAuthor": "string"
   }
